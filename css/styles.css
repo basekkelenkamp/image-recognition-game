@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(169, 231, 205);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div {
+    background-color: rgb(127, 255, 180);
+    padding: 10px;
+    margin: 40px;
+    margin-right: 1000px;
+    border-radius: 30px;
+}
+
+img {
+    border-radius: 5px;
+    border: black solid;
+}
